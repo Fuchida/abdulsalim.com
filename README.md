@@ -1,0 +1,4 @@
+fuchida.me
+==========
+
+Personal site 
