@@ -1,4 +1,4 @@
 fuchida.me
 ==========
 
-My personal site about who I am and what I do.
+Personal site about who I am and what I do.
