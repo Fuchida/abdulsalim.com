@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, sans-serif;
+    background-color: whitesmoke;
+    color: #666666
+}
+h1 {
+    color: mediumslateblue
+}
+a {
+    color: navy;
+    text-decoration: none;
+    font-weight: Bold
+}
+div#container {
+    width: 700px;
+    margin: 60px auto
+}
+img {
+    margin-left: 20px;
+    float: right
+}
+ul {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px
+}
+li {
+    margin-bottom: 5px
+}
+hr {
+    border: none;
+    border-top: 1px solid #ccc
+}
