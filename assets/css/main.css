@@ -13,7 +13,7 @@ p {
 }
 a {
     color: FloralWhite;
-    text-decoration:none;
+
 }
 img {
     margin-left: 20px;
@@ -35,8 +35,4 @@ hr {
 div#container {
     width: 700px;
     margin: 60px auto
-}
-
-div#highlight{
-    background-color: #f8e9a1;
 }
