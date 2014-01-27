@@ -12,7 +12,8 @@ p {
     line-height: 2.0;
 }
 a {
-    color: navy;
+    color: FloralWhite;
+    font-weight:bold;
     text-decoration: none;
 }
 img {
