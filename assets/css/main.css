@@ -32,11 +32,11 @@ hr {
     border-top: 1px solid #ccc
 }
 
-div #container {
+div#container {
     width: 700px;
     margin: 60px auto
 }
 
-span #highlight{
+span#highlight{
     background-color: #f8e9a1;
 }
