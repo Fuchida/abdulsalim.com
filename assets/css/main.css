@@ -1,9 +1,10 @@
 body {
-    font-family: Georgia, sans-serif;
+    font-family: sans-serif;
     background-color: #f8f8f8;
     color: DarkSlateGray
 }
 h1 {
+    font-family: Georgia, sans-serif;
     color: mediumslateblue
 }
 p {
