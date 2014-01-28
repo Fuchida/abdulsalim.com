@@ -4,7 +4,9 @@ body {
     color: DarkSlateGray;
 }
 h1 {
-    font-family: "flood-std", Georgia, sans-serif;
+    font-family: "ff-enzo-web", Georgia, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     color: #031825;
 }
 p {
