@@ -14,10 +14,15 @@ p {
     line-height: 2.0;
 }
 a {
-    color: #094776;
+    color: #1096cb;
     text-decoration:None;
 
 }
+
+a:hover{
+    color:#34AADC;
+}
+
 img {
     margin-left: 20px;
     float: right
