@@ -44,3 +44,8 @@ name{
     width: 780px;
     margin: 80px auto
 }
+
+.content {
+    margin: auto;
+    width: 685px;
+}
